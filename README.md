@@ -6,4 +6,3 @@ cub3d project @1337 @42born2code
 --> SOURCE -->  https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/
 
 --> FOR MORE INFORMATIONS --> Dev1mouad@gmail.com
-                           OR mlasrite@student.1337.ma
